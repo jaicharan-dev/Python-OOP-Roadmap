@@ -57,6 +57,3 @@ if __name__ == "__main__":
     priya_account.add_device()
     priya_account.add_device()
     priya_account.add_device()
-
-
-
